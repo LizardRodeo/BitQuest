@@ -17,7 +17,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ask"
+        android:text="@string/ask_btn"
         android:id="@+id/askBtn"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
